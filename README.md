@@ -7,7 +7,7 @@
     <h2 align="center">Perpetua Theme</h2>
 </p>
 
-<p align="center">Lightness–calibrated, unique natural hues for the tireless artisan</p>
+<p align="center">Lightness-calibrated, unique natural hues for the tireless artisan</p>
 
 <p align="center">
     <picture>
@@ -469,7 +469,7 @@
                 <td align="center"><img alt="Perpetua Dark: Pink Back" height="22" src="./assets/swatch_dark_pink_back.png"></td>
                 <td>Pink Back</td>
                 <td><code>#8f0259</code></td>
-                <td><code>rgb(143, 2, )</code></td>
+                <td><code>rgb(143, 2, 89)</code></td>
                 <td><code>okhsl(352, 97%, 34%)</code></td>
             </tr>
             <tr>
