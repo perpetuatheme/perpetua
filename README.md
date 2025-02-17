@@ -17,8 +17,10 @@
     </picture>
 </p>
 
-> [!WARNING]
-> The project is under active development. Things are subject to change.
+> [!TIP]
+> You can now read [the genesis of Perpetua](./docs/genesis.md) to explore
+> some of the motivations that led to its creation and how the colors were
+> selected! 🧬
 
 ## Palettes
 
