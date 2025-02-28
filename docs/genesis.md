@@ -91,7 +91,7 @@ chosen to meet the following three requirements:
   between 80 and 85 to avoid eye strain caused by extreme contrast;
 - the transition from the darkest to the lightest monochromatic color should be
   smooth, with only minor adjustments influenced by my personal taste;
-- the Base 0, Base 1, and Base 2 colors should be closer to each other than the
+- the _Base 0_, _Base 1_, and _Base 2_ colors should be closer to each other than the
   others to limit background variability.
 
 | Perpetua color | Saturation | Saturation delta | Lightness | Lightness delta |
